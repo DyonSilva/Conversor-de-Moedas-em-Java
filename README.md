@@ -10,7 +10,9 @@ https://github.com/DyonSilva
 
 ## Demonstração
 
-https://github.com/DyonSilva/Conversor-de-Moedas-em-Java/issues/1#issue-2584681088
+![menu](https://github.com/user-attachments/assets/306d6b07-2548-4a5b-a65e-0848a0c643b8)
+![resultado](https://github.com/user-attachments/assets/8df43bf3-612e-481e-844b-c386c4baca82)
+
 
 
 
